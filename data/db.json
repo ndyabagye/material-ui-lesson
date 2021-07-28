@@ -1,0 +1,52 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Pay the milk man",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. \nAccusamus nihil repudiandae  doloribus aperiam voluptatem  \nsoluta, optio temporibus  quia non veritatis  \nofficiis quibusdam dicta  \nsimilique suscipit  nulla id nisi hic possimus!",
+      "category": "money",
+      "id": 4
+    },
+    {
+      "title": "New Note",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nihil repudiandae doloribus aperiam voluptatem soluta, optio temporibus quia non veritatis officiis quibusdam dicta similique suscipit nulla id nisi hic possimus!",
+      "category": "work",
+      "id": 5
+    },
+    {
+      "title": "More Notes",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nihil repudiandae doloribus aperiam voluptatem soluta, optio temporibus quia non veritatis officiis quibusdam dicta similique suscipit nulla id nisi hic possimus\nLorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nihil repudiandae doloribus aperiam voluptatem soluta, optio temporibus quia non veritatis officiis quibusdam dicta similique suscipit nulla id nisi hic possimus!",
+      "category": "reminders",
+      "id": 6
+    },
+    {
+      "title": "heny ",
+      "details": "\nLorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nihil repudiandae doloribus aperiam voluptatem soluta, optio temporibus quia non veritatis officiis quibusdam dicta similique suscipit nulla id nisi hic possimus!",
+      "category": "todos",
+      "id": 7
+    },
+    {
+      "title": "Newer note",
+      "details": "Newer lorem ipsum got nothing on me Newer lorem ipsum got nothing on meNewer lorem ipsum got nothing on meNewer lorem ipsum got nothing on meNewer lorem ipsum got nothing on meNewer lorem ipsum got nothing on meNewer lorem ipsum got nothing on me",
+      "category": "reminders",
+      "id": 8
+    }
+  ]
+}
